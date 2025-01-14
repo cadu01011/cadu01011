@@ -1,4 +1,4 @@
-# 👨‍💻 Carlos Eduardo Dias - .NET Developer | Machine Learning Enthusiast
+# 👨‍💻 Carlos Eduardo Dias - .NET Developer | Machine Learning
 
 Hello! I'm Carlos Eduardo, a Brazilian developer specializing in .NET development and machine learning. I combine strong back-end expertise with front-end knowledge and a deep interest in AI technologies.
 
